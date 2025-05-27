@@ -1,0 +1,4 @@
+flask
+opencv-python
+mediapipe
+numpy==1.23.5

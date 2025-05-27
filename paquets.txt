@@ -1,0 +1,6 @@
+Flask==2.3.2
+numpy==1.25.2
+opencv-python-headless==4.8.0.74
+ultralytics==8.0.134
+torch==2.0.1
+scikit-image==0.20.0
