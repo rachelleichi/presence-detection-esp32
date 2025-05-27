@@ -217,4 +217,4 @@ pip install -r paquets.txt
 ---
 
 En raison de la taille de yolo.weights de yolov3 , je n'avais pas pu le rajouter au dossier yolo , 
-merci de le télécharger séparément avec la commande : wget https://data.pjreddie.com/files/yolov3.weig
+merci de le télécharger séparément avec la commande : wget https://data.pjreddie.com/files/yolov3.weights
